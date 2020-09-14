@@ -11,6 +11,6 @@ It is Custom progress Button for android
 	}
 
 
-dependencies {
+	dependencies {
 	        implementation 'com.github.samantaavijit:Custom-Progress-Button:Tag'
 	}
