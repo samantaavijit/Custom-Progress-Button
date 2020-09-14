@@ -12,5 +12,5 @@ It is Custom progress Button for android
 
 
 	dependencies {
-	        implementation 'com.github.samantaavijit:Custom-Progress-Button:Tag'
+	        implementation 'com.github.samantaavijit:Custom-Progress-Button:1.0.0'
 	}
