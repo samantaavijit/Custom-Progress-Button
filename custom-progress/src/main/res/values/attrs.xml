@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomProgressButton">
+        <attr name="text" format="string|reference" localization="suggested"/>
+        <attr name="backgroundColor" format="color|reference"/>
+        <attr name="textColor" format="reference|color" />
+        <attr name="progressBarColor" format="color|reference" />
+
+    </declare-styleable>
+</resources>
